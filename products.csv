@@ -1,0 +1,65 @@
+product_id,name,price,stock,category_id,image,created_at
+1,Samsung Galaxy A54,45000,10,1,samsung_galaxy_a54.jpg,2025-12-02 02:15:49
+2,HP Laptop 15s,85000,5,1,hp_laptop_15s.jpg,2026-03-02 23:29:37
+3,Wireless Earbuds Pro,3500,20,1,wireless_earbuds_pro.jpg,2026-01-02 00:04:22
+4,Sony Headphones,8500,15,1,sony_headphones.jpg,2026-01-12 07:17:34
+5,USB-C Hub 7-in-1,2200,30,1,usb-c_hub_7-in-1.jpg,2025-09-28 08:43:03
+6,Portable Charger 20000mAh,4500,25,1,portable_charger_20000mah.jpg,2025-06-15 05:55:41
+7,Smart Watch Series 6,12000,12,1,smart_watch_series_6.jpg,2025-10-18 19:39:53
+8,Bluetooth Speaker JBL,6500,18,1,bluetooth_speaker_jbl.jpg,2026-03-29 09:59:35
+9,Shalwar Kameez Blue,1200,50,2,shalwar_kameez_blue.jpg,2026-05-04 04:54:48
+10,Denim Jeans Slim Fit,2800,40,2,denim_jeans_slim_fit.jpg,2025-08-21 14:47:00
+11,Cotton T-Shirt Pack,900,60,2,cotton_t-shirt_pack.jpg,2025-05-29 04:52:53
+12,Winter Jacket Black,5500,20,2,winter_jacket_black.jpg,2025-08-22 04:18:31
+13,Formal Shirt White,1800,35,2,formal_shirt_white.jpg,2026-02-01 02:35:58
+14,Kurta Embroidered,2200,28,2,kurta_embroidered.jpg,2026-04-27 20:41:32
+15,Trousers Formal,2500,22,2,trousers_formal.jpg,2025-09-20 04:18:27
+16,Waistcoat Brown,3200,15,2,waistcoat_brown.jpg,2026-01-25 09:36:07
+17,Python Programming Guide,800,15,3,python_programming_guide.jpg,2026-02-26 12:01:01
+18,Database Systems 7th Ed,1200,20,3,database_systems_7th_ed.jpg,2026-02-08 06:08:43
+19,Data Structures Shaffer,950,18,3,data_structures_shaffer.jpg,2026-01-16 05:47:57
+20,C++ Complete Reference,1100,12,3,c++_complete_reference.jpg,2026-04-28 23:30:48
+21,Web Development Duckett,1400,10,3,web_development_duckett.jpg,2025-12-26 02:57:01
+22,Algorithms Cormen,1600,8,3,algorithms_cormen.jpg,2025-11-01 13:48:33
+23,Machine Learning Hands-On,1800,14,3,machine_learning_hands-on.jpg,2026-01-10 19:50:26
+24,Operating Systems Tanenbaum,1300,10,3,operating_systems_tanenbaum.jpg,2025-11-16 13:57:38
+25,Lahori Fan 56 Inch,6500,8,4,lahori_fan_56_inch.jpg,2026-04-16 03:37:52
+26,Room Cooler Super Asia,28000,5,4,room_cooler_super_asia.jpg,2026-04-11 12:06:56
+27,Microwave Oven Dawlance,18000,7,4,microwave_oven_dawlance.jpg,2026-03-30 18:42:03
+28,Electric Iron Philips,3500,20,4,electric_iron_philips.jpg,2025-06-16 00:48:34
+29,Rice Cooker 1.8L,4200,12,4,rice_cooker_1.8l.jpg,2026-03-30 23:20:59
+30,Blender National,2800,15,4,blender_national.jpg,2026-01-16 19:34:41
+31,Vacuum Cleaner Philips,12000,6,4,vacuum_cleaner_philips.jpg,2026-02-11 14:49:33
+32,Water Dispenser PEL,22000,4,4,water_dispenser_pel.jpg,2025-11-22 20:31:12
+33,Cricket Bat Kashmir Willow,4500,10,5,cricket_bat_kashmir_willow.jpg,2025-06-30 01:48:53
+34,Football Nike Size 5,2200,15,5,football_nike_size_5.jpg,2026-04-23 14:28:06
+35,Yoga Mat Non-Slip,1800,20,5,yoga_mat_non-slip.jpg,2025-10-09 01:24:30
+36,Dumbbells Set 20kg,8500,8,5,dumbbells_set_20kg.jpg,2025-08-22 11:25:19
+37,Badminton Set,1500,12,5,badminton_set.jpg,2025-07-17 06:31:49
+38,Cycling Gloves,800,25,5,cycling_gloves.jpg,2025-06-24 09:29:11
+39,Resistance Bands Set,1200,18,5,resistance_bands_set.jpg,2025-06-06 20:18:45
+40,Skipping Rope Steel,600,30,5,skipping_rope_steel.jpg,2025-11-22 12:07:03
+41,LEGO Classic Set,3500,12,6,lego_classic_set.jpg,2025-08-08 22:19:49
+42,Remote Control Car,2800,15,6,remote_control_car.jpg,2026-04-22 03:29:56
+43,Board Game Monopoly,2200,10,6,board_game_monopoly.jpg,2025-11-18 00:23:21
+44,Puzzle 1000 Pieces,1500,20,6,puzzle_1000_pieces.jpg,2025-09-13 04:59:57
+45,Action Figure Marvel,1800,25,6,action_figure_marvel.jpg,2025-10-05 22:51:39
+46,Toy Kitchen Set,4200,8,6,toy_kitchen_set.jpg,2025-06-11 14:58:28
+47,Face Wash Neutrogena,850,30,7,face_wash_neutrogena.jpg,2026-04-13 08:04:05
+48,Moisturizer SPF50,1200,25,7,moisturizer_spf50.jpg,2025-11-20 04:46:31
+49,Shampoo Pantene 400ml,680,40,7,shampoo_pantene_400ml.jpg,2025-10-21 01:58:42
+50,Electric Trimmer Philips,4500,12,7,electric_trimmer_philips.jpg,2026-01-25 02:51:58
+51,Perfume Axe 150ml,1100,20,7,perfume_axe_150ml.jpg,2025-12-02 23:55:24
+52,Multivitamins 30 Tabs,950,35,7,multivitamins_30_tabs.jpg,2025-10-04 12:59:52
+53,Basmati Rice 5kg,1800,25,8,basmati_rice_5kg.jpg,2026-02-22 01:36:55
+54,Olive Oil 750ml,1400,20,8,olive_oil_750ml.jpg,2026-05-09 10:40:30
+55,Green Tea 100 Bags,650,30,8,green_tea_100_bags.jpg,2025-05-27 00:17:00
+56,Honey Pure 500g,1100,15,8,honey_pure_500g.jpg,2026-04-20 00:29:29
+57,A4 Paper Ream 500,950,40,9,a4_paper_ream_500.jpg,2025-08-28 03:12:55
+58,Ball Pen Box 50pcs,600,50,9,ball_pen_box_50pcs.jpg,2025-11-10 02:12:09
+59,Highlighter Set 6,450,45,9,highlighter_set_6.jpg,2025-11-11 21:44:59
+60,Notebook A4 Hardcover,380,60,9,notebook_a4_hardcover.jpg,2026-04-17 03:00:03
+61,iPhone 13 128GB,195000,3,10,iphone_13_128gb.jpg,2025-06-05 20:37:46
+62,Xiaomi Redmi Note 12,52000,8,10,xiaomi_redmi_note_12.jpg,2026-04-20 13:06:31
+63,Oppo A78 128GB,48000,10,10,oppo_a78_128gb.jpg,2025-08-26 23:34:32
+64,Samsung A14 64GB,38000,12,10,samsung_a14_64gb.jpg,2026-03-30 23:53:51
